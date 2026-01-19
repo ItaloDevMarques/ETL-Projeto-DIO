@@ -1,0 +1,36 @@
+2026-01-19 02:20:18 | INFO | Extract: lendo clientes=/mnt/data/etl_vendas/data/raw/clientes.csv vendas=/mnt/data/etl_vendas/data/raw/vendas.csv
+2026-01-19 02:20:18 | INFO | Extract OK: clientes=18 vendas=25
+2026-01-19 02:20:18 | INFO | Transform: iniciando
+2026-01-19 02:20:18 | INFO | Transform OK: clientes=18 vendas=21
+2026-01-19 02:20:18 | INFO | Load: gravando saídas
+2026-01-19 02:20:18 | INFO | Arquivo gerado [clientes_clean]: /mnt/data/etl_vendas/data/processed/clientes_clean.csv
+2026-01-19 02:20:18 | INFO | Arquivo gerado [vendas_clean]: /mnt/data/etl_vendas/data/processed/vendas_clean.csv
+2026-01-19 02:20:18 | INFO | Arquivo gerado [analytics_clientes]: /mnt/data/etl_vendas/data/output/analytics_clientes.csv
+2026-01-19 02:20:18 | INFO | Arquivo gerado [analytics_categorias]: /mnt/data/etl_vendas/data/output/analytics_categorias.csv
+2026-01-19 02:20:18 | INFO | Arquivo gerado [analytics_estados]: /mnt/data/etl_vendas/data/output/analytics_estados.csv
+2026-01-19 02:20:18 | INFO | Arquivo gerado [report]: /mnt/data/etl_vendas/data/output/pipeline_report.json
+2026-01-19 02:20:18 | INFO | Pipeline finalizado com sucesso
+2026-01-19 02:20:28 | INFO | Extract: lendo clientes=/mnt/data/etl_vendas/data/raw/clientes.csv vendas=/mnt/data/etl_vendas/data/raw/vendas.csv
+2026-01-19 02:20:28 | INFO | Extract OK: clientes=18 vendas=25
+2026-01-19 02:20:28 | INFO | Transform: iniciando
+2026-01-19 02:20:28 | INFO | Transform OK: clientes=18 vendas=21
+2026-01-19 02:20:28 | INFO | Load: gravando saídas
+2026-01-19 02:20:28 | INFO | Arquivo gerado [clientes_clean]: /mnt/data/etl_vendas/data/processed/clientes_clean.csv
+2026-01-19 02:20:28 | INFO | Arquivo gerado [vendas_clean]: /mnt/data/etl_vendas/data/processed/vendas_clean.csv
+2026-01-19 02:20:28 | INFO | Arquivo gerado [analytics_clientes]: /mnt/data/etl_vendas/data/output/analytics_clientes.csv
+2026-01-19 02:20:28 | INFO | Arquivo gerado [analytics_categorias]: /mnt/data/etl_vendas/data/output/analytics_categorias.csv
+2026-01-19 02:20:28 | INFO | Arquivo gerado [analytics_estados]: /mnt/data/etl_vendas/data/output/analytics_estados.csv
+2026-01-19 02:20:28 | INFO | Arquivo gerado [report]: /mnt/data/etl_vendas/data/output/pipeline_report.json
+2026-01-19 02:20:28 | INFO | Pipeline finalizado com sucesso
+2026-01-18 23:23:31 | INFO | Extract: lendo clientes=C:\Users\Tyrant\Desktop\Python\Projeto ETL Python DIO\data\raw\clientes.csv vendas=C:\Users\Tyrant\Desktop\Python\Projeto ETL Python DIO\data\raw\vendas.csv
+2026-01-18 23:23:31 | INFO | Extract OK: clientes=18 vendas=25
+2026-01-18 23:23:31 | INFO | Transform: iniciando
+2026-01-18 23:23:31 | INFO | Transform OK: clientes=18 vendas=21
+2026-01-18 23:23:31 | INFO | Load: gravando saídas
+2026-01-18 23:23:31 | INFO | Arquivo gerado [clientes_clean]: C:\Users\Tyrant\Desktop\Python\Projeto ETL Python DIO\data\processed\clientes_clean.csv
+2026-01-18 23:23:31 | INFO | Arquivo gerado [vendas_clean]: C:\Users\Tyrant\Desktop\Python\Projeto ETL Python DIO\data\processed\vendas_clean.csv
+2026-01-18 23:23:31 | INFO | Arquivo gerado [analytics_clientes]: C:\Users\Tyrant\Desktop\Python\Projeto ETL Python DIO\data\output\analytics_clientes.csv
+2026-01-18 23:23:31 | INFO | Arquivo gerado [analytics_categorias]: C:\Users\Tyrant\Desktop\Python\Projeto ETL Python DIO\data\output\analytics_categorias.csv
+2026-01-18 23:23:31 | INFO | Arquivo gerado [analytics_estados]: C:\Users\Tyrant\Desktop\Python\Projeto ETL Python DIO\data\output\analytics_estados.csv
+2026-01-18 23:23:31 | INFO | Arquivo gerado [report]: C:\Users\Tyrant\Desktop\Python\Projeto ETL Python DIO\data\output\pipeline_report.json
+2026-01-18 23:23:31 | INFO | Pipeline finalizado com sucesso

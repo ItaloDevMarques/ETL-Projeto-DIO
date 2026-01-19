@@ -1,0 +1,19 @@
+﻿cliente_id,nome,estado,data_cadastro
+1,João Silva,SP,2022-03-15
+2,Maria Santos,RJ,2021-11-28
+3,Carlos Oliveira,MG,2023-01-10
+4,Ana Costa,RS,2022-07-03
+5,Pedro Alves,BA,2020-05-19
+6,Juliana Lima,SC,2023-02-14
+7,Roberto Pereira,PR,2021-09-30
+8,Fernanda Souza,SP,2022-12-05
+9,Rafael Mendes,MG,2023-03-22
+10,Patrícia Rocha,ES,2022-08-11
+11,Luiz Ferreira,RJ,2021-06-17
+12,Amanda Dias,SP,2023-04-18
+13,Diego Martins,GO,2022-10-25
+14,Camila Nunes,MG,2023-01-05
+15,Gustavo Oliveira,RS,2020-12-08
+99,Cliente Fantasma,XX,15/05/2023
+100,,SP,2023-02-28
+101,Marcos Silva,2023-03-10

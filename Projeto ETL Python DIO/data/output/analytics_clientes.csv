@@ -1,0 +1,14 @@
+cliente_id,total_gasto,qtd_compras,ticket_medio,primeira_compra,ultima_compra,nome,estado
+1,2329.79,3,776.5966666666667,2023-10-05,2023-12-05,João Silva,SP
+2,3749.3,3,1249.7666666666667,,,Maria Santos,RJ
+3,958.0,2,479.0,2023-11-05,2023-11-05,Carlos Oliveira,MG
+4,1328.9,2,664.45,,,Ana Costa,RS
+5,1089.89,2,544.945,,,Pedro Alves,BA
+6,589.4,2,294.7,,,Juliana Lima,SC
+8,699.0,1,699.0,,,Fernanda Souza,SP
+9,1599.0,1,1599.0,,,Rafael Mendes,MG
+10,2899.0,1,2899.0,,,Patrícia Rocha,ES
+11,49.9,1,49.9,,,Luiz Ferreira,RJ
+12,2199.0,1,2199.0,,,Amanda Dias,SP
+13,399.9,1,399.9,,,Diego Martins,GO
+14,2499.0,1,2499.0,,,Camila Nunes,MG

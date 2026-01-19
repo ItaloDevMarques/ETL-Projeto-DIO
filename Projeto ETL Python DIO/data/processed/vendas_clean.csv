@@ -1,0 +1,22 @@
+venda_id,cliente_id,produto,categoria,valor,data_venda
+1,1,Smartphone,Eletrônicos,1899.99,2023-10-05
+3,3,Mesa de Escritório,Móveis,799.0,2023-11-05
+4,1,Fone de Ouvido,Eletrônicos,299.9,2023-12-05
+2,2,Notebook,Eletrônicos,3599.5,
+5,4,Cadeira Gamer,Móveis,1299.0,
+6,5,Monitor,Eletrônicos,899.99,
+7,6,Teclado Mecânico,Computação,349.5,
+8,2,Mouse,Computação,89.9,
+9,8,Impressora,Eletrônicos,699.0,
+10,9,Tablet,Eletrônicos,1599.0,
+11,10,Smart TV,Eletrônicos,2899.0,
+12,11,Livro,Livros,49.9,
+13,12,Câmera Digital,Eletrônicos,2199.0,
+14,13,Aspirador de Pó,Eletrodomésticos,399.9,
+15,14,Videogame,Eletrônicos,2499.0,
+16,3,Luminária de Mesa,Decoração,159.0,
+19,1,Carregador Portátil,acessorios,129.9,
+20,2,Cabos USB,Acessórios,59.9,
+22,4,Mouse Pad,Computação,29.9,
+24,5,Filtro de Água,Casa,189.9,
+25,6,Mochila,acessorios,239.9,

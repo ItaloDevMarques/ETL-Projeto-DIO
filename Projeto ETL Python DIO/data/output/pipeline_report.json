@@ -1,0 +1,10 @@
+{
+  "clientes_in": 18,
+  "vendas_in": 25,
+  "vendas_sem_cliente_id": 1,
+  "vendas_valor_invalido": 2,
+  "vendas_cliente_inexistente": 1,
+  "clientes_id_invalido": 0,
+  "clientes_out": 18,
+  "vendas_out": 21
+}

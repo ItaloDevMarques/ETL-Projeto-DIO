@@ -1,0 +1,26 @@
+﻿venda_id,cliente_id,produto,categoria,valor,data_venda
+1,1,Smartphone,Eletronico,1899.99,2023-05-10
+2,2,Notebook,Eletrônico,3599.50,10/05/2023
+3,3,Mesa de Escritório,Móveis,799.00,2023-05-11
+4,1,Fone de Ouvido,eletronicos,299.90,2023-05-12
+5,4,Cadeira Gamer,Móveis,1299.00,13/05/2023
+6,5,Monitor,Eletronico,899.99,2023-05-14
+7,6,Teclado Mecânico,Computação,349.50,2023-05-15
+8,2,Mouse,Computação,89.90,15/05/2023
+9,8,Impressora,Eletrônicos,699.00,2023-05-16
+10,9,Tablet,Eletronico,1599.00,2023-05-17
+11,10,Smart TV,Eletronicos,2899.00,2023-05-18
+12,11,Livro,Livros,49.90,2023-05-19
+13,12,Câmera Digital,Eletrônico,2199.00,2023-05-20
+14,13,Aspirador de Pó,Eletrodomésticos,399.90,2023-05-21
+15,14,Videogame,Eletronico,2499.00,2023-05-22
+16,3,Luminária de Mesa,Decoração,159.00,2023-05-23
+17,16,Cadeira Plástica,Móveis,-150.00,2023-05-24
+18,17,Microfone,Eletronico,,2023-05-25
+19,1,Carregador Portátil,acessorios,129.90,25/05/2023
+20,2,Cabos USB,Acessórios,59.90,2023-05-26
+21,999,Livro Técnico,Livros,199.00,2023-05-27
+22,4,Mouse Pad,Computação,29.90,27/05/2023
+23,,Cafeteira,Eletrodomésticos,299.00,2023-05-28
+24,5,Filtro de Água,Casa,189.90,2023-05-29
+25,6,Mochila,acessorios,239.90,2023-05-30
